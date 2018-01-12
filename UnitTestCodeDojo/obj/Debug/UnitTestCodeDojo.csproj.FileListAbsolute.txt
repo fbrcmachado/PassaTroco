@@ -1,0 +1,14 @@
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\UnitTestCodeDojo\obj\Debug\UnitTestCodeDojo.csprojResolveAssemblyReference.cache
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\UnitTestCodeDojo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\UnitTestCodeDojo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\UnitTestCodeDojo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\UnitTestCodeDojo\bin\Debug\UnitTestCodeDojo.dll
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\UnitTestCodeDojo\bin\Debug\UnitTestCodeDojo.pdb
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\UnitTestCodeDojo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\UnitTestCodeDojo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\UnitTestCodeDojo\bin\Debug\Troco.exe
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\UnitTestCodeDojo\bin\Debug\Troco.pdb
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\UnitTestCodeDojo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\UnitTestCodeDojo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\UnitTestCodeDojo\obj\Debug\UnitTestCodeDojo.dll
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\UnitTestCodeDojo\obj\Debug\UnitTestCodeDojo.pdb

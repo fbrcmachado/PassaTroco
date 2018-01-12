@@ -1,0 +1,6 @@
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\Troco\bin\Debug\Troco.exe.config
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\Troco\obj\Debug\Troco.csprojResolveAssemblyReference.cache
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\Troco\bin\Debug\Troco.exe
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\Troco\bin\Debug\Troco.pdb
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\Troco\obj\Debug\Troco.exe
+C:\Users\Fabricio\Desktop\CodeDojoRepository-master\CodeDojo\Troco\obj\Debug\Troco.pdb
